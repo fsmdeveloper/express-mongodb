@@ -1,4 +1,3 @@
 node_modules
-./package-lock.json
-./package-lock.json
-./.gitignore
+package-lock.json
+.gitignore
